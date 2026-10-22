@@ -33,7 +33,7 @@ Languages & Tools
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=XIAOBOCXY&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=XIAOBOCXY&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats&theme=transparent"
     alt="GitHub Stats"
   />
   <img
