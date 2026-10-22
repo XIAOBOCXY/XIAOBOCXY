@@ -17,8 +17,6 @@
 </picture>
 
 </div>
-
-About Me
 你好，我是 XIAOBOCXY。我喜欢通过实际项目探索不同技术方向，关注 Web 应用开发、数据处理与游戏开发，持续学习，也持续把想法做成作品。
 - Web Development — Vue / TypeScript / Java / Spring Boot
 - Data & Visualization — Python / 数据处理与可视化
