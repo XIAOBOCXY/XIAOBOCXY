@@ -30,18 +30,20 @@ Languages & Tools
 
 </div>
 
+
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=XIAOBOCXY&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats&theme=transparent"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XIAOBOCXY&theme=transparent"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOBOCXY&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XIAOBOCXY&theme=transparent"
     alt="Most Used Languages"
   />
 </div>
+
 
 <div align="center">
   <p><em>Thanks for visiting! Always learning, always building.</em></p>
