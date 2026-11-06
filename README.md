@@ -5,9 +5,19 @@
 <h1>Hi there, I'm XIAOBOCXY 👋</h1>
 <h3>Software Development · Game Development · Data Exploration</h3>
 <p><strong>无限进步</strong></p>
-<p>
-  <a href="https://github.com/XIAOBOCXY?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore-Projects-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/XIAOBOCXY"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-XIAOBOCXY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/XIAOBOCXY?tab=repositories">
+    <img
+      alt="Projects"
+      src="https://mark.sylphx.com/badge/Explore-Projects-238636.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/XIAOBOCXY">
+    <img
+      alt="GitHub"
+      src="https://mark.sylphx.com/badge/GitHub-XIAOBOCXY-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    />
+  </a>
 </p>
 
 <picture>
